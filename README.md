@@ -3,14 +3,15 @@ I thank Udacity for providing me the oppurtunity to work on this wonderful proje
 I also thank the udacity staff for their quick and meaningful response and the reviewers for their guidance and personalised and productive view on the projects.
 
 ## Technologies Used and/or Learnt
-Pytorch
-Python
-Tensorflow
-Keras
-OpenCV
-Jupyter Notebook
-Numpy, Matplotlib, Pandas, SKlearn
-
+<ul>
+	<li>Pytorch</li>
+	<li>Python</li>
+	<li>Tensorflow</li>
+	<li>Keras</li>
+	<li>OpenCV</li>
+	<li>Jupyter Notebook</li>
+	<li>Numpy, Matplotlib, Pandas, SKlearn</li>
+</ul>
 
 [//]: # (Image References)
 
