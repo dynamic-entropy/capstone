@@ -1,3 +1,17 @@
+## Acknowledgement
+I thank Udacity for providing me the oppurtunity to work on this wonderful project. 
+I also thank the udacity staff for their quick and meaningful response and the reviewers for their guidance and personalised and productive view on the projects.
+
+## Technologies Used and/or Learnt
+Pytorch
+Python
+Tensorflow
+Keras
+OpenCV
+Jupyter Notebook
+Numpy, Matplotlib, Pandas, SKlearn
+
+
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
